@@ -64,6 +64,6 @@ module FileHelpers
   end
 
   def url
-    @url ||= "http://audiocontentdownload.apple.com/lp10_ms3_content_2016/"
+    @url ||= "http://audiocontentdownload.apple.com/lp10_ms3_content_2021/"
   end
 end
